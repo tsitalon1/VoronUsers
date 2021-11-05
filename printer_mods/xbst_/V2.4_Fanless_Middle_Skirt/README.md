@@ -1,1 +1,0 @@
-A replacement middle skirt that doesn't protrude below the bottom plate, and has no fan mounts.

@@ -1,1 +1,0 @@
-DIN support for MeanwWell PSU RS-15-5

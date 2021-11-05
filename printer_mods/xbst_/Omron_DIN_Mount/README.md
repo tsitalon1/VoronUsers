@@ -1,1 +1,0 @@
-This is for mounting the stock Omron Relay to the DIN rails without buying the Omron mount. You will also need the "pcb_din_clip_x3.stl" file included in the STL files for V2.4 (and V1.8, name may be different)
