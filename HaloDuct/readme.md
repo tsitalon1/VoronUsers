@@ -1,6 +1,6 @@
 Last update 11/5/2021
 
->>**_**Quick disclaimer – I am not a CAD expert, I have limited experience, but I manage to make functional pieces that I’m happy with.  
+**>>Quick disclaimer – I am not a CAD expert, I have limited experience, but I manage to make functional pieces that I’m happy with.  
 Beta testing from a few Voron users have confirmed excellent results, as such I’ve decided to share this design.   
 This duct is currently not officially VoronMods approved based on design criteria listed on the Voron Discord, however I am working with more a experienced CAD POC to see if we can make it compliant with Voron design principals.<<**
 
