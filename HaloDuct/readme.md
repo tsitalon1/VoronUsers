@@ -22,6 +22,7 @@ Recommended Printing guidelines:
 - Material – ABS or better
 -	0.16 Layer height
 -	Supports under ducts (select supports for “touching build plate only”)
+-	suggest some part cooling - between 10-50% depending on your cooling setup
 -	3 sec minimum layer time
 
 All testing was performed with a single 5015 fan, using the below Fan mod by Greg191134:
