@@ -1,10 +1,17 @@
-Last update 11/5/2021
+Last update 11/13/2021
 
 **>>  Quick disclaimer – I am not a CAD expert, I have limited experience, but I manage to make functional pieces that I’m happy with.  
 Beta testing from a few Voron users have confirmed excellent results, as such I’ve decided to share this design.
 This duct is currently not officially VoronMods approved based on design criteria listed on the Voron Discord, however I am working with more a experienced CAD POC to see if we can make it compliant with Voron design principals.  <<**
 
 Introducing the Halo Duct for the Voron Afterburner, this duct was created from my personal need to get better cooling during PLA prints.  
+
+Available versions:
+- Dragon v1.1 - weight 20.5 grams
+- Dragon v1.1 with hotend duct - weight 24.5 grams (not yet released)
+- Mosquito v1.1 - weight 20 grams (not yet released)
+- E3d-V6 v1.1 - weight 19.1 grams (not yet released)
+
 
 Goals for this duct were:
 - Adequate cooling to enable high speed PLA prints
