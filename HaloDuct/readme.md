@@ -25,6 +25,9 @@ Recommended Printing guidelines:
 -	suggest some part cooling - between 10-50% depending on your cooling setup
 -	3 sec minimum layer time
 
+Support removal should be easy, no tools required:
+https://youtu.be/1iqqhB1m5gw
+
 All testing was performed with a single 5015 fan, using the below Fan mod by Greg191134:
 https://github.com/Greg191134/Voron/tree/master/Afterburner%20Optimisation/5015%20fan%20mod
 
