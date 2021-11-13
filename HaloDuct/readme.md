@@ -8,7 +8,7 @@ Introducing the Halo Duct for the Voron Afterburner, this duct was created from 
 
 Available versions:
 - Dragon v1.1 - weight 20.5 grams
-- Dragon v1.1 with hotend duct - weight 24.5 grams (not yet released)
+- Dragon v1.1 with hotend ducting - weight 24.5 grams (not yet released)
 - Mosquito v1.1 - weight 20 grams (not yet released)
 - E3d-V6 v1.1 - weight 19.1 grams (not yet released)
 
