@@ -38,6 +38,10 @@ https://youtu.be/1iqqhB1m5gw
 All testing was performed with a single 5015 fan, using the below Fan mod by Greg191134:
 https://github.com/Greg191134/Voron/tree/master/Afterburner%20Optimisation/5015%20fan%20mod
 
+If you find my work helpful, or it's made life a bit easier, consider a tip/donation, it is appreciated, but not required:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M16Z71N)
+
+
 ![image](https://user-images.githubusercontent.com/29336466/140539614-2519b9b5-617d-4e01-80ad-31f5185556f1.png)
 ![image](https://user-images.githubusercontent.com/29336466/140539633-180ba7b6-6f45-4fe8-a8e0-680ce0e4a1ea.png)
 ![image](https://user-images.githubusercontent.com/29336466/140539657-ccddd84f-ebc8-4a77-a7d0-d411fc44fd25.png)
