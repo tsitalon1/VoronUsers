@@ -35,6 +35,9 @@ This duct is currently not officially VoronMods approved based on design criteri
 **Support removal should be easy, no tools required:**
 https://youtu.be/1iqqhB1m5gw
 
+**BOM:**
+- 4 standard threaded inserts (same as all afterburner ducts)
+
 **All testing was performed with a single 5015 fan, using the below Fan mod by Greg191134:**
 https://github.com/Greg191134/Voron/tree/master/Afterburner%20Optimisation/5015%20fan%20mod
 
